@@ -57,3 +57,19 @@ In our future research, we aim to significantly enhance the robustness, accuracy
 ## Citation
 
 If you use this dataset or code, please cite the paper:
+
+``` 
+@article{FARIA2025100347,
+title = {MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts},
+journal = {International Journal of Information Management Data Insights},
+volume = {5},
+number = {2},
+pages = {100347},
+year = {2025},
+issn = {2667-0968},
+doi = {https://doi.org/10.1016/j.jjimei.2025.100347},
+url = {https://www.sciencedirect.com/science/article/pii/S2667096825000291},
+author = {Fatema Tuj Johora Faria and Mukaffi Bin Moin and Zayeed Hasan and Md. Arafat Alam Khandaker and Niful Islam and Khan Md Hasib and M.F. Mridha},
+keywords = {Fake news detection, Multimodal dataset, Textual analysis, Visual analysis, Bangla language, Under-resource, Fusion techniques, Deep learning}}
+
+```
